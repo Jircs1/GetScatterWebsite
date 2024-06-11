@@ -11,7 +11,7 @@
     "@scatterjs/eosjs2": "^1.5.26",
     "aos": "^3.0.0-beta.6",
     "buttercms": "^1.1.4",
-    "eosjs": "^20.0.0",
+    "eosjs": "^20.0.3",
     "highlight.js": "^9.15.6",
     "vivus": "^0.4.4",
     "vue": "^2.6.10",
